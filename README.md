@@ -20,3 +20,13 @@ Its an exiting trip of 22 days. I have a good experience where I was enjoyed eve
 - Parisian honey
 
 [my link address](https://github.com/sivapriya43/my2-katta/blob/main/MyStats.md)
+
+-
+
+#### Sports Activities 
+Sports are very important in our day to day life. Everyone should focus of the activities that are involed and make it as a habit to follow everyday.
+|Nme|Reason|Hours|
+|----|----|----|
+|Batminton|Body Exercise|2|
+|Cricket|Mind|3|
+|Tenis|Body|2|
