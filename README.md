@@ -30,3 +30,13 @@ Sports are very important in our day to day life. Everyone should focus of the a
 |Batminton|Body Exercise|2|
 |Cricket|Mind|3|
 |Tenis|Body|2|
+
+---
+#### quots
+*Edward Teller *
+
+> “The science of today is the technology of tomorrow.”
+
+*William Blake*
+
+> “Art is the tree of life. Science is the tree of death.”
