@@ -40,3 +40,24 @@ Sports are very important in our day to day life. Everyone should focus of the a
 *William Blake*
 
 > “Art is the tree of life. Science is the tree of death.”
+
+---
+
+> How do you post to an iframe?
+
+[link](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+
+[answer](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
